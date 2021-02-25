@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+nav{
+    font-size: 1em;
+    background-color: rgb(1, 35, 66);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.carousel-caption{
+    margin-bottom: 10px;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 1.5rem;
+}
+
+.conteudo{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.row{
+    width: 95%;
+    margin-top: 20px;
+   
+
+}
+
+.card{
+    float: left;
+    text-align: center;
+    margin: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer{
+    font-size: 1em;
+    background-color: rgb(1, 35, 66);
+    font-family: 'Times New Roman', Times, serif;
+}
