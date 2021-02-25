@@ -12,7 +12,7 @@ Projeto desenvolvido em aula sob orientação do professor. O layout contém ape
 - Bootstrap (5.0.x)
 
 ## Preview:
-![form](https://user-images.githubusercontent.com/73259410/108551977-731cdc00-72cf-11eb-99b9-c0fca0ee57f4.png)
+![2021-02-25 19-16-31_Trim](https://user-images.githubusercontent.com/73259410/109228135-28540600-77a0-11eb-9231-c475529bf524.gif)
 
 
 #### Obrigada pela visita!
