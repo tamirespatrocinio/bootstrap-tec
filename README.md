@@ -1,6 +1,6 @@
 # Website TI08M
 
-Projeto desenvolvido em aula sob orientação do professor. O layout contém apenas Home com a estrutura básica.
+O layout contém apenas Home com a estrutura básica.
 
 
 ## :rocket: Technologies:
